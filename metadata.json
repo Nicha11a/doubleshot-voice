@@ -1,0 +1,6 @@
+{
+  "name": "Doubleshot Voice",
+  "description": "ระบบรับความคิดเห็นและข้อร้องเรียนจากลูกค้า สำหรับร้านกาแฟ Doubleshot X Khonkaen เพื่อตรวจสอบและพัฒนาคุณภาพอย่างเป็นระบบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
